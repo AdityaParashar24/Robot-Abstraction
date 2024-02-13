@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCoursework.a CMakeFiles/Coursework.dir/main.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCoursework.a
